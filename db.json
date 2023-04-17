@@ -2,21 +2,21 @@
   "posts": [
     {
       "id": 1,
-      "title": "Post 1",
+      "title": "Mania",
       "url": "https://myminigame.net/game/mania/index.html",
       "image" : "https://myminigame.net/image/bomIT6.png",
       "desc": "AAAOm Nom monsters or candies to make them disappear from the board. Are you ready to help Om Nom and his friends and get the highest score?"
     },
     {
       "id": 2,
-      "title": "Post 2",
+      "title": "Bom IT 4",
       "url": "https://myminigame.net/game/mania/index.html",
-      "image" : "https://myminigame.net/image/dynamons.png",
+      "image" : "https://myminigame.net/image/boomIT4.png.png",
       "desc": "BBBOmrd. Are you ready to help Om Nom and his friends and get the highest score?"
     },
     {
       "id": 3,
-      "title": "Post 3",
+      "title": "Dynamons 4",
       "url": "https://myminigame.net/game/mania/index.html",
       "image" : "https://myminigame.net/image/dynamons.png",
       "desc": "CCCOm isappear from the board. Are you ready to help Om Nom and his friends and get the highest score?"
@@ -25,21 +25,21 @@
       "id": 4,
       "title": "Post 4",
       "url": "https://myminigame.net/game/mania/index.html",
-      "image" : "https://myminigame.net/image/dynamons.png",
+      "image" : "https://myminigame.net/image/Hedgies.png",
       "desc": "Om Nom and his friends need youeets with them.m disappear from the board. Are you ready to help Om Nom and his friends and get the highest score?"
     },
         {
       "id": 5,
-      "title": "Post 5",
+      "title": "Hungry Shark Arena",
       "url": "https://myminigame.net/game/mania/index.html",
-      "image" : "https://myminigame.net/image/dynamons.png",
+      "image" : "https://myminigame.net/image/HungrySharkArena.png",
       "desc": "Om Nom and his fri,r from the board. Are you ready to help Om Nom and his friends and get the highest score?"
     },
         {
       "id": 6,
-      "title": "Post 6",
+      "title": "Hunter Hitman",
       "url": "https://myminigame.net/game/mania/index.html",
-      "image" : "https://myminigame.net/image/dynamons.png",
+      "image" : "https://myminigame.net/image/HunterHitman.png",
       "desc": "Om Ne them disappear from the board. Are you ready to help Om Nom and his friends and get the highest score?"
     }
   ],
