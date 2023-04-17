@@ -2,11 +2,15 @@
   "posts": [
     {
       "id": 1,
-      "title": "Post 1"
+      "title": "Post 1",
+      "url": "Post 1",
+      "image" : "Post 1"
     },
     {
       "id": 2,
-      "title": "Post 2"
+      "title": "Post 2",
+            "url": "Post 1",
+      "image" : "Post 1"
     },
     {
       "id": 3,
@@ -14,15 +18,21 @@
     },
         {
       "id": 4,
-      "title": "Post 4"
+      "title": "Post 4",
+      "url": "Post 1",
+      "image" : "Post 1"
     },
         {
       "id": 5,
-      "title": "Post 5"
+      "title": "Post 5",
+      "url": "Post 1",
+      "image" : "Post 1"
     },
         {
       "id": 6,
-      "title": "Post 6"
+      "title": "Post 6",
+            "url": "Post 1",
+      "image" : "Post 1"
     }
   ],
   "comments": [
