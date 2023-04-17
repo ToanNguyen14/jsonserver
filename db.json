@@ -3,36 +3,38 @@
     {
       "id": 1,
       "title": "Post 1",
-      "url": "Post 1",
-      "image" : "Post 1"
+      "url": "https://myminigame.net/game/mania/index.html",
+      "image" : "https://myminigame.net/image/dynamons.png"
     },
     {
       "id": 2,
       "title": "Post 2",
-            "url": "Post 1",
-      "image" : "Post 1"
+      "url": "https://myminigame.net/game/mania/index.html",
+      "image" : "https://myminigame.net/image/dynamons.png"
     },
     {
       "id": 3,
-      "title": "Post 3"
+      "title": "Post 3",
+      "url": "https://myminigame.net/game/mania/index.html",
+      "image" : "https://myminigame.net/image/dynamons.png"
     },
         {
       "id": 4,
       "title": "Post 4",
-      "url": "Post 1",
-      "image" : "Post 1"
+      "url": "https://myminigame.net/game/mania/index.html",
+      "image" : "https://myminigame.net/image/dynamons.png"
     },
         {
       "id": 5,
       "title": "Post 5",
-      "url": "Post 1",
-      "image" : "Post 1"
+      "url": "https://myminigame.net/game/mania/index.html",
+      "image" : "https://myminigame.net/image/dynamons.png"
     },
         {
       "id": 6,
       "title": "Post 6",
-            "url": "Post 1",
-      "image" : "Post 1"
+      "url": "https://myminigame.net/game/mania/index.html",
+      "image" : "https://myminigame.net/image/dynamons.png"
     }
   ],
   "comments": [
